@@ -41,7 +41,7 @@ The dashboard includes interactive slicers to explore the data by:
 
 ## Dashboard Preview
 
-![Sales Analysis Dashboard](Screenshots/dashboard.png)
+![Sales Analysis Dashboard]
 
 ## Skills Demonstrated
 - Data Analysis
@@ -50,3 +50,4 @@ The dashboard includes interactive slicers to explore the data by:
 - Excel
 - Power BI
 - Business Intelligence
+
